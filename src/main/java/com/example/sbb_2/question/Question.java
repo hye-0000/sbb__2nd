@@ -1,4 +1,4 @@
-package com.example.sbb_2;
+package com.example.sbb_2.question;
 
 import jakarta.persistence.*;
 import lombok.Getter;
